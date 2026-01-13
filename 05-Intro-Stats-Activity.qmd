@@ -20,7 +20,7 @@ execute:
   enabled: true
 ---
 
-# Intro Stats Activity {#statsactivity}
+# Intro Stats Activity
 
 Address each of the questions in the code chunk below and/or by typing outside the chunk (for written answers).
 
